@@ -1,3 +1,5 @@
+#!/bin/sh -e
+
 #Resize drive when requested
 if [ -d /home/.resizerootfs ] ; then
 	
